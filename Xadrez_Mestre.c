@@ -44,8 +44,8 @@ int main()
 
     printf("\n\n*** Cavalo ***\n");
     // Movimento do cavalo em "L":
-    // Primeiro move 2 casas para baixo (loop interno)
-    // Depois move 1 casa para a esquerda (loop externo)
+    // Primeiro move 2 casas para Cima (loop interno)
+    // Depois move 1 casa para a Direita (loop externo)
 
     for (int movDir = 1; movDir < 2; movDir++)
     {
